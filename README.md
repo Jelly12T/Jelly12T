@@ -3,7 +3,7 @@
 <img alt="Thạch Lê, iOS developer. A memory graph where a retain cycle is broken by [weak self]." src="assets/banner-light.svg" width="100%">
 </picture>
 
-I'm an iOS developer working on eKYC and face authentication. Most of my side projects start from the same question: what are Swift and UIKit actually doing at runtime? Then I build tools around the answer.
+I'm an iOS developer working on eKYC and face authentication. I've also built mobile banking and photo editing apps, and optimized multithreaded code for performance. Most of my side projects start from the same question: what are Swift and UIKit actually doing at runtime? Then I build tools around the answer.
 
 ### Projects
 
@@ -21,6 +21,15 @@ I'm an iOS developer working on eKYC and face authentication. Most of my side pr
 </picture>
 
 Swift and Objective-C on iOS: SwiftUI, UIKit, Combine, Swift Concurrency, AVFoundation. Strong background in algorithms and data structures, mostly in C++ and Python. Go on the backend, and GitLab + Jenkins CI on macOS runners.
+
+### LeetCode
+
+<a href="https://leetcode.com/u/jelly12T/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jelly12T?theme=dark">
+  <img alt="LeetCode stats for jelly12T" src="https://leetcard.jacoblin.cool/jelly12T?theme=light">
+</picture>
+</a>
 
 ### Contact
 

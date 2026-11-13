@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" font-family="-apple-system, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif">
+  <style>
+    .mono{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+    .strong{animation:out .6s ease 1.2s forwards}
+    .weak{opacity:0;animation:in .6s ease 1.2s forwards}
+    @keyframes out{to{opacity:0}}
+    @keyframes in{to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.strong{animation:none;opacity:0}.weak{animation:none;opacity:1}}
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#6B7889"/></marker>
+    <marker id="w" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#FF6B4A"/></marker>
+  </defs>
+  <rect width="1000" height="260" rx="16" fill="#151B24"/>
+  <text x="48" y="122" font-size="56" font-weight="700" letter-spacing="-1" fill="#E6EDF3">Thạch Lê</text>
+  <text x="50" y="162" font-size="20" fill="#8B97A6">iOS developer who chases retain cycles.</text>
+  <g fill="none" stroke-width="2">
+     <path d="M750 62C830 62 875 72 875 100" stroke="#6B7889" marker-end="url(#a)"/>
+     <path d="M875 152C875 188 830 198 758 198" stroke="#6B7889" marker-end="url(#a)"/>
+     <path class="strong" d="M655 176V92" stroke="#6B7889" marker-end="url(#a)"/>
+     <path class="weak" d="M655 176V92" stroke="#FF6B4A" stroke-dasharray="6 5" marker-end="url(#w)"/>
+  </g>
+  <g class="mono" font-size="15">
+     <text x="772" y="52" fill="#8B97A6">viewModel</text>
+     <text x="790" y="224" fill="#8B97A6">onUpdate</text>
+     <text class="strong" x="642" y="139" text-anchor="end" fill="#8B97A6">self</text>
+     <text class="weak" x="642" y="139" text-anchor="end" fill="#FF6B4A">[weak self]</text>
+  </g>
+  <g stroke="#2F3A4A" stroke-width="1.5" fill="#1C2430">
+     <rect x="560" y="40" width="190" height="44" rx="10"/>
+     <rect x="800" y="108" width="150" height="44" rx="10"/>
+     <rect x="560" y="176" width="190" height="44" rx="10"/>
+  </g>
+  <g class="mono" font-size="17" fill="#E6EDF3" text-anchor="middle">
+     <text x="655" y="68">ViewController</text>
+     <text x="875" y="136">ViewModel</text>
+     <text x="655" y="204">() -&gt; Void</text>
+  </g>
+</svg>

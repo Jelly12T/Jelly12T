@@ -15,7 +15,12 @@ I'm an iOS developer working on eKYC and face authentication. Most of my side pr
 
 ### Stack
 
-Swift, Objective-C, SwiftUI, UIKit, Combine, Swift Concurrency, AVFoundation. Some Go on the backend, and GitLab + Jenkins CI on macOS runners.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Ccpp%2Cpy%2Cgo%2Cgit%2Cgitlab%2Cjenkins&theme=dark">
+<img alt="Swift, C++, Python, Go, Git, GitLab, Jenkins" src="https://skillicons.dev/icons?i=swift%2Ccpp%2Cpy%2Cgo%2Cgit%2Cgitlab%2Cjenkins&theme=light">
+</picture>
+
+Swift and Objective-C on iOS: SwiftUI, UIKit, Combine, Swift Concurrency, AVFoundation. Strong background in algorithms and data structures, mostly in C++ and Python. Go on the backend, and GitLab + Jenkins CI on macOS runners.
 
 ### Contact
 

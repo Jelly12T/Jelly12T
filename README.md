@@ -16,3 +16,7 @@ I'm an iOS developer at Kalapa, working on eKYC and face authentication. Most of
 ### Stack
 
 Swift, Objective-C, SwiftUI, UIKit, Combine, Swift Concurrency, AVFoundation. Some Go on the backend, and GitLab + Jenkins CI on macOS runners.
+
+### Contact
+
+[lehoangthach12.work@gmail.com](mailto:lehoangthach12.work@gmail.com) or [LinkedIn](https://www.linkedin.com/in/th%E1%BA%A1ch-l%C3%AA-379345231/)

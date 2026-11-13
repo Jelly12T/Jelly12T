@@ -3,7 +3,7 @@
 <img alt="Thạch Lê, iOS developer. A memory graph where a retain cycle is broken by [weak self]." src="assets/banner-light.svg" width="100%">
 </picture>
 
-I'm an iOS developer at Kalapa, working on eKYC and face authentication. Most of my side projects start from the same question: what are Swift and UIKit actually doing at runtime? Then I build tools around the answer.
+I'm an iOS developer working on eKYC and face authentication. Most of my side projects start from the same question: what are Swift and UIKit actually doing at runtime? Then I build tools around the answer.
 
 ### Projects
 
